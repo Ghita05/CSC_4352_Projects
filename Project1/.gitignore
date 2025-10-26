@@ -1,6 +1,3 @@
-# Images dataset (too large for git)
-images/
-
 # Python virtual environment
 venv/
 .venv/
