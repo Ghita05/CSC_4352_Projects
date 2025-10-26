@@ -1,0 +1,23 @@
+# Images dataset (too large for git)
+images/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Results/output files
+results/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
